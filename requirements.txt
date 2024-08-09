@@ -1,0 +1,12 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+ca-certificates=2024.3.11=haa95532_0
+et-xmlfile=1.1.0=pypi_0
+importlib-resources=6.4.0=pypi_0
+intel-openmp=2021.4.0=pypi_0
+lazy-loader=0.4=pypi_0
+opencv-python=4.2.0.32=pypi_0
+python-dateutil=2.9.0.post0=pypi_0
+scikit-image=0.21.0=pypi_0
+typing-extensions=4.11.0=pypi_0
